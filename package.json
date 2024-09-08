@@ -1,6 +1,6 @@
 {
   "name": "string-manipulation-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple string manipulation utility by MendisOfficial",
   "main": "dist/index.js",
   "scripts": {
